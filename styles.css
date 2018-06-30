@@ -1,0 +1,83 @@
+body {
+    text-align: center;
+    background-color: coral;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+    color: red;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    color: crimson;
+    font-size: 30px;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 3em;
+    color: hotpink;
+    border-radius: 5px;
+    font-size: 100%;
+}
+
+input[type=submit] {
+    color: hotpink;
+    border-radius: 5px;
+    width: 5em;
+    font-size: 100%;
+
+}
+
+input[type=color] {
+    background-color: hotpink;
+    border-radius: 5px;
+
+}
+
+#sizePicker {
+    color: salmon;
+    font-size: 22px;
+
+}
+
+.all {
+    border: solid 2px black;
+    box-shadow:10px 10px gray;
+    width: 50%;
+    background-color: white;
+    margin-right: 25%;
+    margin-left: 25%;
+    padding-bottom: 10px;
+}
+
+.hi {
+    margin-top: 20px;
+    font-size: 120%;
+    color: firebrick;
+}
