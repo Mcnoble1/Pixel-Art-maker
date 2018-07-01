@@ -2,7 +2,7 @@
 // Select size input
 
 // When size is submitted by the user, call makeGrid()
-alert("welcome to the Mcnobles Pixel art Maker");
+alert("welcome to the Mcnoble's Pixel art Maker");
 function makeGrid(height, width) {
 
 // Your code goes here!

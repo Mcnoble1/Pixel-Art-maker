@@ -1,18 +1,24 @@
 body {
     text-align: center;
-    background-color: coral;
+    background-color: #fff;
+}
+
+img {
+    height: 120px;
+    width: 120px;
+    margin-top:  top: 10px;
 }
 
 h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
-    color: red;
+    color: blue;
 }
 
 h2 {
     margin: 1em 0 0.25em;
-    color: crimson;
+    color: blue;
     font-size: 30px;
 }
 
@@ -41,27 +47,26 @@ td {
 
 input[type=number] {
     width: 3em;
-    color: hotpink;
+    color: darkblue;
     border-radius: 5px;
     font-size: 100%;
 }
 
 input[type=submit] {
-    color: hotpink;
+    color: navy;
     border-radius: 5px;
     width: 5em;
     font-size: 100%;
-
 }
 
 input[type=color] {
-    background-color: hotpink;
+    background-color: navy;
     border-radius: 5px;
 
 }
 
 #sizePicker {
-    color: salmon;
+    color: navy;
     font-size: 22px;
 
 }
@@ -69,15 +74,19 @@ input[type=color] {
 .all {
     border: solid 2px black;
     box-shadow:10px 10px gray;
-    width: 50%;
-    background-color: white;
-    margin-right: 25%;
-    margin-left: 25%;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
     padding-bottom: 10px;
+    background: url(bg.jpg);
 }
 
 .hi {
     margin-top: 20px;
     font-size: 120%;
-    color: firebrick;
+    color: midnightblue;
+}
+
+#pixelCanvas {
+    background-color: #fff;
 }

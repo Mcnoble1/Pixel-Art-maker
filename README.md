@@ -1,16 +1,5 @@
-# Pixel Art Maker Project
+This is set of codes on the pixel art maker which is a project for Front end developers from the ALCwithGoogle 3.0 scholarship.
 
-## Table of Contents
+It works by taking inputs from users by specifying the number of grids(grid's height and width) the user wants to design upon(the canvas) after which the user can also choose the color he/she wants to work with and even mix colors for the artwork he/she wants to design.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Enjoy the pixel art maker by Idowu Festus Temiloluwa.
